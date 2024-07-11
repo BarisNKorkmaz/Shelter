@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6dc97f4d5d769bc48aae49f51f52337b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cyberverse Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 193ee877a3ee279479e176c2ae9e15cd, type: 3}
+  - {fileID: 12800000, guid: 804af9cbceece694497c92b308009665, type: 3}
+  - {fileID: 12800000, guid: 1860439684887be488d94a3f0a8f02f0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
