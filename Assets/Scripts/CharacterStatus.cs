@@ -21,6 +21,9 @@ public class CharacterStatus : MonoBehaviour
         for (int i = 0; i < 5; i++)
         {
             arr[i] += x;
+            if (arr[i] >= 100) {     
+              arr[i]=100; 
+            }
         }
     }
 
@@ -41,12 +44,4 @@ public class CharacterStatus : MonoBehaviour
             BarFiller(mHealthBar[j], mhealth[j]);
         }
     }
-
-    void Start()
-    {
-        ForAllCharacterStatus(hunger, -20f);
-    }
-
-
-
 }
